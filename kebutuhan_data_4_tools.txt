@@ -1,0 +1,5 @@
+butuh data CT KRI LED RCSA dengan ketentuan :
+
+1. area, cabang, kantor pusat
+2. untuk kantor pusat, ketentuan nya adalah directorateID = 6, groupID = 33 & 37, departemenID = 165 & 149
+3. untuk cabang dan area , ketentuannya adalah areaID = 1, branchID = 1, regionalID = 1
